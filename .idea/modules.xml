@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/stepbystep.iml" filepath="$PROJECT_DIR$/stepbystep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/webapp.iml" filepath="$PROJECT_DIR$/webapp/webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webcommon/webcommon.iml" filepath="$PROJECT_DIR$/webcommon/webcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice/webservice.iml" filepath="$PROJECT_DIR$/webservice/webservice.iml" />
+    </modules>
+  </component>
+</project>
